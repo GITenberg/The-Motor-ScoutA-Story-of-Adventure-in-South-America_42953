@@ -19,6 +19,8 @@ creator:
     - http://en.wikipedia.org/wiki/Herbert_Strang
     - http://www.gutenberg.org/ebooks/author/39124
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42953#The-Motor-ScoutA-Story-of-Adventure-in-South-America
 gutenberg_issued: '2013-06-15'
 gutenberg_type: Text
 identifiers:
